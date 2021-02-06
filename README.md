@@ -10,4 +10,7 @@ Concepts of CPP Programs Revised:
 3. Basic data types in CPP
 4. Conditional statements in CPP
 5. For loop in CPP
+6. Functions in CPP
+7. Pointer in CPP
+8. Array in CPP
    Coming Soon.....
