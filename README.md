@@ -16,5 +16,7 @@ Concepts of CPP Programs Revised:
 9) Array in CPP
 10) "Variable Sized Array" (used 2D dynamic array (ie. array of 2 arrays))
 11) Strings concept
+12) Structs concept
+13) Class concept
 
    Coming Soon.....
