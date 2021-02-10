@@ -3,7 +3,7 @@ It contains various hackerrank assignments of CPP.
 All concepts of CPP are demonstrated using all these assignments.
 
 ![GitHub Logo](https://github.com/shubhamrajput0369/CPP-Hackerrank-Assignments/blob/main/1.0%20C%2B%2B.jpg)
-
+![GitHub Logo](https://github.com/shubhamrajput0369/CPP-Hackerrank-Assignments/blob/main/Image%202.jpg)
 Concepts of CPP Programs Revised:
 1) Introduction & Image of C++  
 2) Printing "Hello, World"
