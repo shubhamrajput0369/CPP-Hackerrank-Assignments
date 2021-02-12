@@ -19,5 +19,7 @@ Concepts of CPP Programs Revised:
 12) Structs concept
 13) Class concept
 14) Classes and object concept
+15) Vector sort concept
+16) Vector erase concept
 
    Coming Soon.....
