@@ -1,4 +1,4 @@
-//Athour: Shubham Bhagwansing Rajput
+//Author: Shubham Bhagwansing Rajput
 //C++
 
 #include <cmath>
