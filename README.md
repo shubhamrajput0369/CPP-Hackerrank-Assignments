@@ -21,5 +21,11 @@ Concepts of CPP Programs Revised:
 14) Classes and object concept
 15) Vector sort concept
 16) Vector erase concept
+17) Lower Bound - Vector (With STL-Vector concept) 
+18) Lower Bound - Array (Without STL-Vector concept)
+19) Sets-STL concept
+20) Maps-STL concept
+21) Print Pretty logic
+22) Inheritance Introductory logic
 
    Coming Soon.....
