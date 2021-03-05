@@ -51,6 +51,6 @@ Concepts of CPP Programs Revised:
 
 23) Rectangle Area (Inheritance & Overloading logic)
 
-24) Multi Level 
+24) Multi Level Inheritance 
 
     Coming Soon.....
