@@ -19,4 +19,6 @@ int main()
     while(c!='#')
     {
         of<<c;
-        cin>>c
+        cin>>c;
+    }
+ 
