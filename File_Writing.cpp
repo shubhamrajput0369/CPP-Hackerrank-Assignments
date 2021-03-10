@@ -28,4 +28,5 @@ int main()
 
     ifstream ifs("File.txt",ios::in);
 
+    cout<<"Data is :-";
  
