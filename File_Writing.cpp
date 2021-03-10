@@ -18,3 +18,5 @@ int main()
 
     while(c!='#')
  
+   {
+ 
