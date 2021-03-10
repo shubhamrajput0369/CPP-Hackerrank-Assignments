@@ -32,4 +32,6 @@ int main()
  
    while(ifs)
     {
+        c = ifs.get();
+        if(c!='#')
  
