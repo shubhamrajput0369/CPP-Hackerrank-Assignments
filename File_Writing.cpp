@@ -30,3 +30,6 @@ int main()
 
     cout<<"Data is :-";
  
+   while(ifs)
+    {
+ 
