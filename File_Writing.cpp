@@ -22,3 +22,5 @@ int main()
         cin>>c;
     }
  
+   cout<<"Data written in file successfully";
+ 
