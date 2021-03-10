@@ -10,4 +10,5 @@ int main()
 {
  
    char c;
+   ofstream of("File.txt",ios::out);
  
