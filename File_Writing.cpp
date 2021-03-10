@@ -17,6 +17,5 @@ int main()
     cin>>c;
 
     while(c!='#')
- 
-   {
- 
+    {
+        of<<c;
