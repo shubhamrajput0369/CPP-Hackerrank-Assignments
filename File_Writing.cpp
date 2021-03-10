@@ -41,3 +41,5 @@ int main()
  
    }
     ifs.close();
+
+    return 0;
