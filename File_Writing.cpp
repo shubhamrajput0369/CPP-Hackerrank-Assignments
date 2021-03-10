@@ -34,4 +34,6 @@ int main()
     {
         c = ifs.get();
         if(c!='#')
+        {
+            cout<<c;
  
