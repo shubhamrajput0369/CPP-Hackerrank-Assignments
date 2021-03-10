@@ -25,3 +25,7 @@ int main()
    cout<<"Data written in file successfully";
  
     of.close();
+
+    ifstream ifs("File.txt",ios::in);
+
+ 
