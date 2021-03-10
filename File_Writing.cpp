@@ -9,3 +9,5 @@ using namespace std;
 int main()
 {
  
+   char c;
+ 
